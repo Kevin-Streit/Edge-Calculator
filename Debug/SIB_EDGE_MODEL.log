@@ -1,0 +1,27 @@
+﻿Build started 5/28/2018 4:13:00 PM.
+     1>Project "C:\Users\Kevin\Documents\Visual Studio 2012\Projects\SIB_EDGE_MODEL\SIB_EDGE_MODEL\SIB_EDGE_MODEL.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SIB_EDGE_MODEL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\SIB_EDGE_MODEL.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SIB_EDGE_MODEL.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SIB_EDGE_MODEL.cpp SIB_EDGE_MODELDlg.cpp
+         Skipping... (no relevant changes detected)
+         SIB_EDGE_MODELDlg.cpp
+         SIB_EDGE_MODEL.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Documents\Visual Studio 2012\Projects\SIB_EDGE_MODEL\Debug\SIB_EDGE_MODEL.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Kevin\Documents\Visual Studio 2012\Projects\SIB_EDGE_MODEL\Debug\SIB_EDGE_MODEL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\Documents\Visual Studio 2012\Projects\SIB_EDGE_MODEL\Debug\SIB_EDGE_MODEL.lib" /MACHINE:X86 Debug\SIB_EDGE_MODEL.res
+         Debug\SIB_EDGE_MODEL.obj
+         Debug\SIB_EDGE_MODELDlg.obj
+         Debug\stdafx.obj
+         SIB_EDGE_MODEL.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2012\Projects\SIB_EDGE_MODEL\Debug\SIB_EDGE_MODEL.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SIB_EDGE_MODEL.unsuccessfulbuild".
+         Touching "Debug\SIB_EDGE_MODEL.lastbuildstate".
+     1>Done Building Project "C:\Users\Kevin\Documents\Visual Studio 2012\Projects\SIB_EDGE_MODEL\SIB_EDGE_MODEL\SIB_EDGE_MODEL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.12
